@@ -2,3 +2,13 @@ body {
 margin: 0px;
 }
 
+@font-face {
+font-family: 'Lobster' ;
+src : url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+}
+
+h1 {
+font-family: "Lobster" ; 
+}
+
+
